@@ -21,8 +21,9 @@ test.skip("should convert object values to an array", () => {
   expect(utils.convertObjectToArray({ a: 1, b: 2, c: 3 })).toEqual([1, 2, 3]);
 });
 
-test.skip("should merge two objects", () => {
+test("should merge two objects", () => {
   const objectA = { a: 10 }, objectB = { b: 20 };
   expect(utils.mergeObjects(objectA, objectB)).toEqual({ a: 10, b: 20 });
   expect(objectA).toEqual({ a: 10 });
+  expect(objectB).toEqual({ b: 20 });
 });
