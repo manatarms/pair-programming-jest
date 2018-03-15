@@ -18,6 +18,6 @@ export const convertObjectToArray = inputObject => {
 };
 
 export const mergeObjects = (objectA, objectB) => {
-  Object.assign(objectA, objectB);
+  return Object.assign(objectA, objectB);
   return objectA;
 };
