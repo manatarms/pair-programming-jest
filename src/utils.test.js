@@ -27,3 +27,7 @@ test.skip("should merge two objects", () => {
   expect(objectA).toEqual({ a: 10 });
   expect(objectB).toEqual({ b: 20 });
 });
+
+test("Should test async code", () => {
+  expect(utils.fetchData()).toBe("data");
+});

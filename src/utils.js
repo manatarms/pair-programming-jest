@@ -21,3 +21,11 @@ export const mergeObjects = (objectA, objectB) => {
   return Object.assign(objectA, objectB);
   return objectA;
 };
+
+export const fetchData = data => {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      resolve("data");
+    }, 100);
+  });
+};
