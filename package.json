@@ -3,6 +3,10 @@
     "babel-preset-env": "^1.6.1",
     "jest": "^22.4.2"
   },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  },
   "name": "pair-programming-jest",
   "description": "A pair programming exercise",
   "version": "1.0.0",
