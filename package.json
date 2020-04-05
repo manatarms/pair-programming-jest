@@ -14,7 +14,7 @@
   "dependencies": {
     "abab": "^1.0.4",
     "abbrev": "^1.1.1",
-    "acorn": "^5.5.3",
+    "acorn": "^5.7.4",
     "acorn-globals": "^4.1.0",
     "ajv": "^5.5.2",
     "align-text": "^0.1.4",
