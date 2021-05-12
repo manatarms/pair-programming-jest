@@ -278,7 +278,7 @@
     "map-cache": "^0.2.2",
     "map-visit": "^1.0.0",
     "mem": "^1.1.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "merge-stream": "^1.0.1",
     "micromatch": "^2.3.11",
     "mime-db": "^1.33.0",
