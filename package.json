@@ -410,7 +410,7 @@
     "strip-json-comments": "^2.0.1",
     "supports-color": "^5.3.0",
     "symbol-tree": "^3.2.2",
-    "tar": "^2.2.1",
+    "tar": "^4.4.15",
     "tar-pack": "^3.4.1",
     "test-exclude": "^4.2.1",
     "throat": "^4.1.0",
