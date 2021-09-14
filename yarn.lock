@@ -5406,6 +5406,13 @@ set-value@^2.0.0, set-value@^2.0.1:
     is-plain-object "^2.0.3"
     split-string "^3.0.1"
 
+set-value@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/set-value/-/set-value-4.0.1.tgz#bc23522ade2d52314ec3b5d6fb140f5cd3a88acf"
+  integrity sha512-ayATicCYPVnlNpFmjq2/VmVwhoCQA9+13j8qWp044fmFE3IFphosPtRM+0CJ5xoIx5Uy52fCcwg3XeH2pHbbPQ==
+  dependencies:
+    is-plain-object "^2.0.4"
+
 shebang-command@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/shebang-command/-/shebang-command-1.2.0.tgz#44aac65b695b03398968c39f363fee5deafdf1ea"
