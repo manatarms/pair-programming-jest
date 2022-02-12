@@ -16,7 +16,7 @@
     "abbrev": "^1.1.1",
     "acorn": "^5.5.3",
     "acorn-globals": "^4.1.0",
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "align-text": "^0.1.4",
     "amdefine": "^1.0.1",
     "ansi-escapes": "^3.0.0",
