@@ -414,7 +414,7 @@
     "tar-pack": "^3.4.1",
     "test-exclude": "^4.2.1",
     "throat": "^4.1.0",
-    "tmpl": "^1.0.4",
+    "tmpl": "^1.0.5",
     "to-fast-properties": "^1.0.3",
     "to-object-path": "^0.3.0",
     "to-regex": "^3.0.2",
